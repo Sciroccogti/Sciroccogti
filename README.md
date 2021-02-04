@@ -1,7 +1,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sciroccogti&show_icons=true&theme=nord&count_private=true&line_height=25&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sciroccogti&layout=compact&theme=nord&hide=VHDL,ROFF,CUDA&langs_count=9)
-[![Sciroccogti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sciroccogti)](https://github.com/anuraghazra/github-readme-stats)
+[![Sciroccogti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sciroccogti&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sciroccogti&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
