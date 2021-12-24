@@ -46,11 +46,7 @@ jobs:
           #commits_authoring: octocat@users.noreply.github.com           # Surnames or email addresses used to identify your commits
           
           # habit https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
-          plugin_habits: yes
-          # plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          #plugin_habits: yes
           config_timezone: Asia/Shanghai # Set timezone
           
           # notable
