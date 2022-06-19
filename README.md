@@ -9,6 +9,7 @@
 </a>
 -->
 
+<center>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sciroccogti&show_icons=true&theme=github_dark&count_private=true&line_height=25&hide_title=true">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sciroccogti&show_icons=true&count_private=true&line_height=25&hide_title=true">
@@ -23,3 +24,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Sciroccogti&layout=compact&theme=github_dark">
   <img alt="Waka Tims" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sciroccogti&layout=compact">
 </picture>
+</center>
